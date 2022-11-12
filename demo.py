@@ -1,0 +1,5 @@
+name = input(" what is is your name? ")
+age = input(" how old are you? ")
+weight = input(" what is your courent weight? ")
+height = input(" what's your height? ")
+print(" hello " +name+ " you are " +age+ " \nyour weight is " +weight+ " and your height is "+height)
